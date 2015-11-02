@@ -1,0 +1,6 @@
+Quotes App
+Written in Node.js
+
+A web application that fetches data from http://theysaidso.com. This app uses caching as the API endpoint for getting quotes has a rate limit of 5 requests per day.
+
+(c) John Michael Gerona
